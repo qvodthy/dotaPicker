@@ -1,0 +1,22 @@
+{
+  "name": "dota-picker",
+  "version": "0.0.0",
+  "license": "MIT",
+  "angular-cli": {},
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "@reactivex/rxjs": "^5.4.3",
+    "superagent": "^3.5.2",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {}
+}
